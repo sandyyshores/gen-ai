@@ -5,3 +5,6 @@ __pycache__/
 .env
 myenv/
 __pycache__/
+
+.MyEnv/
+__pycache__/
